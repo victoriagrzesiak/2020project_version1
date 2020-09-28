@@ -1,0 +1,85 @@
+mainpage.css
+
+
+title {
+  font-family: Monospac821 BT, sans-serif;
+  margin: 2em;
+  background: rgb(24,32,69);
+  font-size: 40px;
+  font-color: white;
+}
+
+
+.display-1{
+	display: block;
+  	margin-bottom: 70px
+  }
+
+.display-2{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	margin-bottom: 70px
+  }
+
+
+.display-3{
+	display: block;
+  	margin-left: 950px;
+  	margin-right: 20px;
+  	margin-bottom: 70px
+  }
+
+
+img {
+  max-width: 40%;
+  margin-right:20px;
+  margin-bottom: 60px
+}
+
+
+
+}
+
+video {
+  margin-right:20px;
+  margin-bottom: 80px
+  padding: 80px;
+}
+
+h1{
+font-family: Monospac821 BT, sans-serif;
+  margin: 2em;
+  background: rgb(44,90,69);
+  font-size: 80px;
+color: white;
+padding: 50px
+
+}
+
+h2{
+font-family: Monospac821 BT, sans-serif;
+  margin: 2em;
+  background: rgb(24,32,69);
+  font-size: 50px;
+color: white;
+text-align: center;
+padding: 40px
+
+}
+
+body {
+  font-family: Monospac821 BT, sans-serif;
+  margin: 2em;
+
+
+ background-image: "imgs/final.jpg";
+ background-color: rgb(24,32,69);
+
+ color:white;
+ font-size: 40
+ text-align: center;
+}
+
+
+
